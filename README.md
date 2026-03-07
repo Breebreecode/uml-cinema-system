@@ -1,11 +1,17 @@
-# Modelagem UML – Sistema de Cinema
+UML Diagrams - Cinema Ticket System
 
-Projeto acadêmico desenvolvido na disciplina de Análise Orientada a Objetos.
+Este repositório contém diagramas UML desenvolvidos como parte de atividades da disciplina de Análise Orientada a Objetos.
 
-O trabalho apresenta a modelagem de um sistema de venda de ingressos de cinema utilizando UML, incluindo:
+Diagramas incluídos
 
-- Diagrama de Classes
-- Diagrama de Sequência
+- Class Diagram – Estrutura das classes do sistema de cinema
+- Sequence Diagram – Fluxo de interação no processo de venda de ingressos
+- State Machine Diagram – Estados do sistema durante o processo de venda de ingressos
 
-Ferramenta utilizada:
+Ferramenta utilizada
+
 Visual Paradigm Online
+
+Linguagem de Modelagem
+
+Unified Modeling Language (UML)
